@@ -25,10 +25,10 @@ This repository contains a collection of beginner-friendly RISC-V assembly langu
 
 ## 🚀 How to Run
 
-You can run these `.s` files using [RARS](https://github.com/TheThirdOne/rars), a lightweight RISC-V simulator for educational use.
+You can run these `.asm` files using [RARS](https://github.com/TheThirdOne/rars), a lightweight RISC-V simulator for educational use.
 
 1. Download and open RARS.
-2. Load any `.s` file from the repo.
+2. Load any `.asm` file from the repo.
 3. Assemble and run the program.
 4. Follow the input prompts and observe the output in the console.
 
@@ -42,6 +42,6 @@ Each file is named according to what the logic does (e.g., `replace-lowercase-if
 
 ## 🙌 Contributions
 
-This repo is part of an ongoing learning journey. Suggestions and contributions are welcome — feel free to fork and experiment!
+This repo is part of an ongoing learning journey. Suggestions and contributions are welcome. feel free to fork and experiment!
 
 > ✍️ Built with curiosity and low-level love.
