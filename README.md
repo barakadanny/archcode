@@ -12,7 +12,7 @@ You are an aspiring computer engineer, systems programmer, or just curious about
 
 This repository contains a collection of beginner-friendly RISC-V assembly language exercises. Each file demonstrates how to manipulate strings, process digits or characters, and use basic system calls in a low-level context.
 
-### 🧰 What You’ll Practice
+### 🧰 What Is Featured in this repo
 
 - Register usage and memory access
 - ASCII-based character logic
